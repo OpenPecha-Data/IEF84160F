@@ -1,0 +1,80 @@
+id: IEF84160F
+ocr_import_info:
+  timestamp: '2023-10-07T14:08:05.346880+00:00'
+  batch_id: batch-f348
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: Dharmakyab
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.7
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-10-09 01:34:09.314388+00:00
+last_modified: 2023-10-09 01:34:09.314397+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W19341
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW19341
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: གསུང་འབུམ། བློ་བཟང་བཟོད་པ།
+  languages:
+  - bo
+  author: དཀའ་ཆེན་བློ་བཟང་བཟོད་པ།
+statistics:
+  ocr_word_mean_confidence_index: 0.951241526921322
+  ocr_word_median_confidence_index: 0.9984369
+bases:
+  I1KG421:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG421
+      total_pages: 532
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I1KG421.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99160838
+      ocr_word_mean_confidence_index: 0.9335935345091546
+  I1KG419:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG419
+      total_pages: 514
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I1KG419.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9990531
+      ocr_word_mean_confidence_index: 0.9479399567330996
+  I1KG420:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG420
+      total_pages: 534
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I1KG420.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9999971
+      ocr_word_mean_confidence_index: 0.9752604662104368
+  I1KG418:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG418
+      total_pages: 574
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I1KG418.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99362627
+      ocr_word_mean_confidence_index: 0.9480852951333769
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
